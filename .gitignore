@@ -1,0 +1,23 @@
+# Python byte-code caches
+__pycache__/
+*.py[cod]
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Pytest cache
+.pytest_cache/
+
+# Editor directories
+.idea/
+.vscode/
+
+# OS artifacts
+.DS_Store
